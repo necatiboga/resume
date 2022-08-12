@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.81f1d6c7.css",
-    "main.js": "/static/js/main.af4b0afa.js",
-    "static/js/415.512e95e1.chunk.js": "/static/js/415.512e95e1.chunk.js",
-    "static/js/787.dc9ee2bf.chunk.js": "/static/js/787.dc9ee2bf.chunk.js",
-    "static/media/portfolio.png": "/static/media/portfolio.1e1bd7b7c741eb9cc4f2.png",
-    "static/media/avatar.jpeg": "/static/media/avatar.1d5bd0925d61eba92296.jpeg",
-    "static/media/NecatiBoğaCV.pdf": "/static/media/NecatiBoğaCV.eeadf8d2efb4174affa2.pdf",
-    "static/media/kurumsalBukyTalkHome.png": "/static/media/kurumsalBukyTalkHome.b36e15d40b631a1a0930.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/logo.png": "/static/media/logo.9bd3053e2d926b3fbd29.png",
-    "static/media/aboutMe.svg": "/static/media/aboutMe.605efab1d0c9d80694cc50912d32d874.svg",
-    "static/media/SoftwareDeveloper.svg": "/static/media/SoftwareDeveloper.f789e5ca18e71f8998d277c6931c1249.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.81f1d6c7.css.map": "/static/css/main.81f1d6c7.css.map",
-    "main.af4b0afa.js.map": "/static/js/main.af4b0afa.js.map",
-    "415.512e95e1.chunk.js.map": "/static/js/415.512e95e1.chunk.js.map",
-    "787.dc9ee2bf.chunk.js.map": "/static/js/787.dc9ee2bf.chunk.js.map"
+    "main.css": "/resume/static/css/main.48f929b9.css",
+    "main.js": "/resume/static/js/main.bb627a5b.js",
+    "static/js/415.512e95e1.chunk.js": "/resume/static/js/415.512e95e1.chunk.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/portfolio.png": "/resume/static/media/portfolio.1e1bd7b7c741eb9cc4f2.png",
+    "static/media/avatar.jpeg": "/resume/static/media/avatar.1d5bd0925d61eba92296.jpeg",
+    "static/media/NecatiBoğaCV.pdf": "/resume/static/media/NecatiBoğaCV.eeadf8d2efb4174affa2.pdf",
+    "static/media/kurumsalBukyTalkHome.png": "/resume/static/media/kurumsalBukyTalkHome.b36e15d40b631a1a0930.png",
+    "static/media/home-bg.jpg": "/resume/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/resume/static/media/logo.9bd3053e2d926b3fbd29.png",
+    "static/media/aboutMe.svg": "/resume/static/media/aboutMe.605efab1d0c9d80694cc50912d32d874.svg",
+    "static/media/SoftwareDeveloper.svg": "/resume/static/media/SoftwareDeveloper.f789e5ca18e71f8998d277c6931c1249.svg",
+    "static/media/pre.svg": "/resume/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/resume/index.html",
+    "main.48f929b9.css.map": "/resume/static/css/main.48f929b9.css.map",
+    "main.bb627a5b.js.map": "/resume/static/js/main.bb627a5b.js.map",
+    "415.512e95e1.chunk.js.map": "/resume/static/js/415.512e95e1.chunk.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81f1d6c7.css",
-    "static/js/main.af4b0afa.js"
+    "static/css/main.48f929b9.css",
+    "static/js/main.bb627a5b.js"
   ]
 }
