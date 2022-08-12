@@ -4,6 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import KurumsalBukyTalk from "../../Assets/Projects/kurumsalBukyTalkHome.png";
+import elcilikSistemi from "../../Assets/Projects/elcilikSistemi.png";
+import NestJSApi from "../../Assets/Projects/NestJSApi.png";
 
 function Projects() {
   return (
@@ -30,6 +32,24 @@ function Projects() {
               isBlog={false}
               title="BukyTalk Kurumsal"
               description="Bukytalk Information Technologies Training and Consultancy Inc. A website I made for corporate companies working with In this project, I used ReactJS on the Front-End side. On the backend, I used PHP. It has a login page that works fine using an API (token the password) and tables that work fine. I used the react-bootstrap-table2 library in the table section. Other things I use; Axios, Bootstrap, CSS, etc."
+              link="/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={elcilikSistemi}
+              isBlog={false}
+              title="BukyTalk Elçilik Sistemi"
+              description="Developed with ReactJS. React Hooks, Axios are used. TailwindCSS is used"
+              link="/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={NestJSApi}
+              isBlog={false}
+              title="API with NestJS"
+              description="Developed with NestJS, the NodeJS framework. Swagger UI has been created, PostgreSQL connected to Docker. JWT token was created. (Access Token, Refresh Token), It was developed with TypeScript language."
               link="/"
             />
           </Col>
