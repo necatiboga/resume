@@ -1,6 +1,6 @@
 {
-  "homepage": "https://NecatiBoga.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://necatiboga.github.io",
+  "name": "resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
