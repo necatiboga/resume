@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.48f929b9.css",
-    "main.js": "/resume/static/js/main.bb627a5b.js",
+    "main.js": "/resume/static/js/main.4dabe823.js",
     "static/js/415.512e95e1.chunk.js": "/resume/static/js/415.512e95e1.chunk.js",
     "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
     "static/media/portfolio.png": "/resume/static/media/portfolio.1e1bd7b7c741eb9cc4f2.png",
     "static/media/avatar.jpeg": "/resume/static/media/avatar.1d5bd0925d61eba92296.jpeg",
     "static/media/NecatiBoğaCV.pdf": "/resume/static/media/NecatiBoğaCV.eeadf8d2efb4174affa2.pdf",
+    "static/media/elcilikSistemi.png": "/resume/static/media/elcilikSistemi.d904fa866dd9e6c04ea3.png",
+    "static/media/NestJSApi.png": "/resume/static/media/NestJSApi.8a9061b05b0d63eb6007.png",
     "static/media/kurumsalBukyTalkHome.png": "/resume/static/media/kurumsalBukyTalkHome.b36e15d40b631a1a0930.png",
     "static/media/home-bg.jpg": "/resume/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/resume/static/media/logo.9bd3053e2d926b3fbd29.png",
@@ -15,12 +17,12 @@
     "static/media/pre.svg": "/resume/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/resume/index.html",
     "main.48f929b9.css.map": "/resume/static/css/main.48f929b9.css.map",
-    "main.bb627a5b.js.map": "/resume/static/js/main.bb627a5b.js.map",
+    "main.4dabe823.js.map": "/resume/static/js/main.4dabe823.js.map",
     "415.512e95e1.chunk.js.map": "/resume/static/js/415.512e95e1.chunk.js.map",
     "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f929b9.css",
-    "static/js/main.bb627a5b.js"
+    "static/js/main.4dabe823.js"
   ]
 }
